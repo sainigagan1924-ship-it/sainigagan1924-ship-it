@@ -1,7 +1,6 @@
 # 💫 "always learning, always building"
 
-<!-- Replace with your own banner / screenshot (e.g. your desktop, terminal, or a project preview) -->
-![banner](https://via.placeholder.com/1200x400/0d1117/ffffff?text=sainigagan1924-ship-it)
+![banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=260&section=header&text=Gagan%20Saini&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=B.Tech%20CS%20%7C%20Open%20Source%20%7C%20Always%20Building&descSize=20&descAlignY=70)
 
 > B.Tech Computer Science student + open-source contributor with a passion for solving hard problems
 
