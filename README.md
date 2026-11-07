@@ -1,15 +1,58 @@
-# 💫 About Me:
-🚀 **About Me**<br><br>I'm a passionate B.Tech Computer Science student who thrives on turning ideas into impactful code. As an active open-source contributor, I enjoy collaborating with developers worldwide and building solutions that make a difference.<br><br>💡 I’m a strong problem solver who loves tackling complex challenges, optimizing performance, and writing clean, efficient code. Whether it's debugging tricky issues or designing scalable systems, I approach every problem with curiosity and determination.<br><br>⚡ Always learning, always building — I’m constantly exploring new technologies and pushing my limits as a developer.<br><br>Let’s build something amazing together!<br>
+# 💫 "always learning, always building"
 
+<!-- Replace with your own banner / screenshot (e.g. your desktop, terminal, or a project preview) -->
+![banner](https://via.placeholder.com/1200x400/0d1117/ffffff?text=sainigagan1924-ship-it)
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/gagansaini0433_10464) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gagansaini526) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gagan-saini-523055380) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saini.gagan.1924@gmail.com) 
+> B.Tech Computer Science student + open-source contributor with a passion for solving hard problems
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sainigagan1924-ship-it&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sainigagan1924-ship-it&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sainigagan1924-ship-it&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+I'm a passionate B.Tech Computer Science student who thrives on turning ideas into impactful code. As an active open-source contributor, I enjoy collaborating with developers worldwide and building solutions that make a difference.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+💡 I love tackling complex challenges, optimizing performance, and writing clean, efficient code. Whether it's debugging tricky issues or designing scalable systems, I approach every problem with curiosity and determination.
+
+⚡ Always learning, always building — constantly exploring new technologies and pushing my limits as a developer.
+
+<a href="https://YOUR-WEBSITE-URL"><img src="https://img.shields.io/badge/WEBSITE-F7C948?style=for-the-badge&logo=html5&logoColor=black" alt="Website"></a>
+<a href="https://discord.com/users/YOUR_DISCORD_ID"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+<a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://github.com/sponsors/sainigagan1924-ship-it"><img src="https://img.shields.io/badge/SPONSOR-181717?style=for-the-badge&logo=github&logoColor=white" alt="Sponsor"></a>
+
+If you like my work and want to support me, you can [sponsor me on GitHub](https://github.com/sponsors/sainigagan1924-ship-it) 💖
+
+## Tech Stack
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Express.js](https://img.shields.io/badge/EXPRESS.JS-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/JQUERY-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Figma](https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## Community
+
+I like contributing to open source and collaborating with developers around the world:
+
+- Open-source contributor — building and improving projects with developers worldwide
+- <!-- Add a club / society / community here — Role -->
+- <!-- Add another community here — Role -->
+
+## GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sainigagan1924-ship-it&show_icons=true&theme=github_dark&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sainigagan1924-ship-it&layout=compact&theme=github_dark&hide_border=true)
+
+## You can also find me on
+
+- 💬 Discord: [@YOUR_DISCORD](https://discord.com/users/YOUR_DISCORD_ID)
+- 📸 Instagram: [@YOUR_INSTAGRAM](https://instagram.com/YOUR_INSTAGRAM)
+- 💼 LinkedIn: [@YOUR_LINKEDIN](https://linkedin.com/in/YOUR_LINKEDIN)
+- 📧 Email: [YOUR_EMAIL](mailto:YOUR_EMAIL)
+
+Let's build something amazing together!
